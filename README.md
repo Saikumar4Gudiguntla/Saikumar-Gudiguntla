@@ -140,7 +140,7 @@ I am pursuing roles where healthcare, data engineering, and AI intersect:
 # 🤝 Let’s Connect
 
 💼 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/saikumar-gudiguntla-703554254
 
 📫 Open to collaborations in healthcare analytics, AI, and informatics innovation.
 
